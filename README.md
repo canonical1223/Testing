@@ -4,7 +4,7 @@
    - LibTorch https://pytorch.org/get-started/locally/
    - https://github.com/pytorch/pytorch#from-source
    - https://docs.pytorch.org/cppdocs/installing.html
-   - Главная проблема это минимальные cuda драйвера 12.6, нужно узнать версии на кластере (на локальной точно старее, не факт что встанут новые, но можно тестировать на старой версии torch под старый драйвера, если уж все одобряют)
+   - Главная проблема это минимальные cuda драйвера 12.6, нужно узнать версии на кластере (на локальной точно старее, не факт что встанут новые, но можно тестировать на старой версии torch на python под старые драйвера, если уж все одобряют)
 3. ClickHouse DB
    - https://clickhouse.com/docs/getting-started/quick-start/oss
    - https://clickhouse.com/docs/install
