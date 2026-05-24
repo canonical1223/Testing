@@ -1,5 +1,5 @@
 # Testing
-1.PyTorch
+1. PyTorch
    - LibTorch https://pytorch.org/get-started/locally/
    - https://github.com/pytorch/pytorch#from-source
    - https://docs.pytorch.org/cppdocs/installing.html
